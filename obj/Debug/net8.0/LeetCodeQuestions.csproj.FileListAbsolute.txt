@@ -1,0 +1,14 @@
+C:\LeetCode\LeetCodeQuestions\bin\Debug\net8.0\LeetCodeQuestions.exe
+C:\LeetCode\LeetCodeQuestions\bin\Debug\net8.0\LeetCodeQuestions.deps.json
+C:\LeetCode\LeetCodeQuestions\bin\Debug\net8.0\LeetCodeQuestions.runtimeconfig.json
+C:\LeetCode\LeetCodeQuestions\bin\Debug\net8.0\LeetCodeQuestions.dll
+C:\LeetCode\LeetCodeQuestions\bin\Debug\net8.0\LeetCodeQuestions.pdb
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.AssemblyInfoInputs.cache
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.AssemblyInfo.cs
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.csproj.CoreCompileInputs.cache
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.dll
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\refint\LeetCodeQuestions.dll
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.pdb
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.genruntimeconfig.cache
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\ref\LeetCodeQuestions.dll
