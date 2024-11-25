@@ -12,3 +12,4 @@ C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\refint\LeetCodeQuestions.dll
 C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.pdb
 C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.genruntimeconfig.cache
 C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\ref\LeetCodeQuestions.dll
+C:\LeetCode\LeetCodeQuestions\obj\Debug\net8.0\LeetCodeQuestions.sourcelink.json
